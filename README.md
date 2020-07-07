@@ -1,6 +1,7 @@
 # IBM-CALL-FOR-CODE-HACKATHON
 Team consists of 2 members,
 
-project link:
+project link:(refer the below for the complete project details and u can try it out)
 
-https://us02web.zoom.us/j/85083876416?pwd=NXRaSndPVGVhbUJFZFJGU3Y3WFpSZz09
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=e0e79302-8e9d-4d1c-96b3-1881a936568b&serviceInstanceID=2dc4cf6f-6542-4b6a-81db-c1423e500c84
